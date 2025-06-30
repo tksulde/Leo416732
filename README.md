@@ -80,7 +80,7 @@
 <a href="https://instagram.com/https://www.instagram.com/leo_ol4/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/Leo416732" target="_blank">
+<a href="https://github.com/https://github.com/tksulde" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -90,7 +90,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leo416732&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tksulde&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -105,7 +105,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Leo416732&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=tksulde&&style=flat-square" align="center" />
 </div>  
   
 
