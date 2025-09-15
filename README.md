@@ -25,17 +25,13 @@ Beyond code, I explore research in decentralization, liquid staking, and interop
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Helix Labs](https://github.com/orgs/HelixLabsDev/dashboard)  
   
 
 - 🌱 I’m currently learning Web3  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
