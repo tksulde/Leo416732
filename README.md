@@ -29,10 +29,13 @@ Beyond code, I explore research in decentralization, liquid staking, and interop
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Helix Labs](https://github.com/orgs/HelixLabsDev/dashboard)  
-  
+- I’m currently working on [Helix Labs](https://github.com/orgs/HelixLabsDev/dashboard)  
 
-- 🌱 I’m currently learning Web3  
+- Building cross-chain DeFi vaults and gaming platforms
+
+- Exploring modular Web3 infrastructure & restaking
+
+- Improving my design, research, and piano skills
 
 
 </td></tr></table>  
