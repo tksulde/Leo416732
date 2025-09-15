@@ -67,8 +67,3 @@ Beyond code, I explore research in decentralization, liquid staking, and interop
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
