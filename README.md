@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Sulde!  
 
-<video src="https://cdn.cosmos.so/47c0223f-c704-4d5a-8b47-c48262ebe301?format=jpeg" width="100%" height="auto" controls></video>
+<div align="center"><a> <img height="auto" width="auto" src="https://cdn.cosmos.so/47c0223f-c704-4d5a-8b47-c48262ebe301?format=jpeg" /></a></div>
 
 <a href="https://twitter.com/tksulde" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
