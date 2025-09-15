@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sulde!  
+## Hey 👋, I'm Munkhsuld!  
 
 <div align="center"><a> <img height="auto" width="auto" src="https://cdn.cosmos.so/47c0223f-c704-4d5a-8b47-c48262ebe301?format=jpeg" /></a></div>
 
