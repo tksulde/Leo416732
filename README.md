@@ -11,6 +11,13 @@
 <a href="https://github.com/tksulde" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
+<a href="[https://github.com/tksulde](https://gratis-tumbleweed-263.notion.site/Munkhsuld-Bayaraa-1ae8b5ff55a14c37b48ac97404d06d94?source=copy_link)" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
+
+
   
 
 
